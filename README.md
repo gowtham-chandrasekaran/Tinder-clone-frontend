@@ -4,7 +4,7 @@ Web App link: https://tinder-clone-gowtham.netlify.app/
 
 Built using React.
 
-You can find the backend here: https://github.com/gowthambalboa/Tinder-clone-backend
+You can find the backend repo here: https://github.com/gowthambalboa/Tinder-clone-backend
 
 # Description
 
